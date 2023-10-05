@@ -1,0 +1,8 @@
+import random
+
+mynum = random.randint(1, 100)
+count = 1
+while count in range (1,11): 
+    print(mynum)
+    mynum = mynum + count 
+    count += 1

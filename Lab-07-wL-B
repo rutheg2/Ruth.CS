@@ -1,0 +1,7 @@
+#Exercise 1 Ruth Gozalez
+import time
+time.sleep
+time.sleep (0.5)
+print("0.5")
+time.sleep (1.0)
+print("1.05")
